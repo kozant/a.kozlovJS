@@ -1,0 +1,22 @@
+table{
+	border:3px solid #000;
+}
+td{
+	width: 10px;
+	height: 10px;
+}
+.deny{
+	background-color: #39353B;
+}
+.allo{
+	background-color: #B0B0B0;
+}
+#x22y22{
+	background-color: yellow;
+}
+.green{
+	background-color: green;
+}
+.red{
+	background-color: red;
+}
