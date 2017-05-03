@@ -1,0 +1,78 @@
+{
+	"Electronics" : [
+		{
+			"name" :  "fridge",
+			"price" : 499.99,
+			"description" : "the best product in the world",
+			"img" : "Electronics/fridge.jpg",
+			"flag" : true
+		},
+		{
+			"name" :  "microwave",
+			"price" : 249.99,
+			"description" : "the best product in the world",
+			"img" : "Electronics/microwave.jpg",
+			"flag" : false
+		},
+		{
+			"name" :  "mobile phone",
+			"price" : 44.99,
+			"description" : "the best product in the world",
+			"img" : "Electronics/phone.jpg",
+			"flag" : true
+		},
+		{
+			"name" :  "TV",
+			"price" : 399.99,
+			"description" : "the best product in the world",
+			"img" : "Electronics/TV.jpg",
+			"flag" : false
+		}
+	],
+	"Sports equipment" : [
+		{
+			"name" :  "Bicycle",
+			"price" : 34.99,
+			"description" : "the best product in the world",
+			"img" : "Sports equipment/#.jpg",
+			"flag" : true
+		},
+		{
+			"name" :  "Roller Skates",
+			"price" : 19.99,
+			"description" : "the best product in the world",
+			"img" : "Sports equipment/#.jpg",
+			"flag" : false
+		},
+		{
+			"name" :  "Jump rope",
+			"price" : 4.99,
+			"description" : "the best product in the world",
+			"img" : "Sports equipment/#.jpg",
+			"flag" : false
+		}
+	],
+		"Vehicles" : [
+		{
+			"name" :  "Car",
+			"price" : 7000.00,
+			"description" : "the best product in the world",
+			"img" : "Vehicles/#.jpg",
+			"flag" : true
+		},
+		{
+			"name" :  "Plane",
+			"price" : 50000.00,
+			"description" : "the best product in the world",
+			"img" : "Vehicles/#.jpg",
+			"flag" : false
+		},
+		{
+			"name" :  "Ship",
+			"price" : 40000.00,
+			"description" : "the best product in the world",
+			"img" : "Vehicles/#.jpg",
+			"flag" : true
+		}
+	]
+}
