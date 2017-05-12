@@ -1,0 +1,23 @@
+	[
+		{
+			"name" :  "fridge",
+			"price" : 499.99,
+			"description" : "the best product in the world",
+			"img" : "Electronics/fridge.jpg",
+			"flag" : true
+		},
+		{
+			"name" :  "microwave",
+			"price" : 249.99,
+			"description" : "the best product in the world",
+			"img" : "Electronics/microwave.jpg",
+			"flag" : false
+		},
+		{
+			"name" :  "mobile phone",
+			"price" : 44.99,
+			"description" : "the best product in the world",
+			"img" : "Electronics/phone.jpg",
+			"flag" : true
+		}
+	]

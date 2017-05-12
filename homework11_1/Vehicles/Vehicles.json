@@ -1,0 +1,23 @@
+	[
+		{
+			"name" :  "Car",
+			"price" : 7000.00,
+			"description" : "the best product in the world",
+			"img" : "Vehicles/car.jpg",
+			"flag" : true
+		},
+		{
+			"name" :  "Plane",
+			"price" : 50000.00,
+			"description" : "the best product in the world",
+			"img" : "Vehicles/plane.jpg",
+			"flag" : false
+		},
+		{
+			"name" :  "Ship",
+			"price" : 40000.00,
+			"description" : "the best product in the world",
+			"img" : "Vehicles/ship.jpg",
+			"flag" : true
+		}
+	]

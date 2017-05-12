@@ -1,0 +1,23 @@
+	[
+		{
+			"name" :  "Bicycle",
+			"price" : 34.99,
+			"description" : "the best product in the world",
+			"img" : "Sports/bicycle.jpg",
+			"flag" : true
+		},
+		{
+			"name" :  "Roller Skates",
+			"price" : 19.99,
+			"description" : "the best product in the world",
+			"img" : "Sports/skates.jpg",
+			"flag" : false
+		},
+		{
+			"name" :  "Jump rope",
+			"price" : 4.99,
+			"description" : "the best product in the world",
+			"img" : "Sports/rope.jpg",
+			"flag" : false
+		}
+	]
