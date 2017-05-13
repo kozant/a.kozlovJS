@@ -1,0 +1,17 @@
+.main{
+	padding: 10px;
+	border: 2px black solid;
+	position: absolute;
+}
+.empty{
+	width:0px; 
+	height: 14px; 
+	border:1px solid black; 
+	background-color: #ff7878; 
+}
+.load{
+	width:500px; 
+	height: 16px; 
+	border: 1.5px solid black; 
+	background-color: #EBEBEA;
+}
