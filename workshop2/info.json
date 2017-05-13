@@ -1,0 +1,23 @@
+[
+	{
+		"color" : "green",
+		"radius" :	"20",
+		"mass" : "60",
+		"coordX" : "900",
+		"coordY" : "575"
+	}, 
+	{
+		"color" : "red",
+		"radius" :	"15",
+		"mass" : "50",
+		"coordX" : "500",
+		"coordY" : "300"
+	},
+	{
+		"color" : "blue",
+		"radius" :	"20",
+		"mass" : "55",
+		"coordX" : "400",
+		"coordY" : "750"
+	}
+]
