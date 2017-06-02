@@ -1,0 +1,46 @@
+{
+	"videos":[
+		{
+			"id" : 1,
+			"source" : "videos/Chicken.MP4",
+			"name" : "Chicken",
+			"duration" : "4",
+			"preview" : "previewImages/Chicken.jpg"
+		},
+		{
+			"id" : 2,
+			"source" : "videos/Cops.MP4",
+			"name" : "Cops",
+			"duration" : "5",
+			"preview" : "previewImages/Cops.jpg"
+		},
+		{
+			"id" : 3,
+			"source" : "videos/Dubstep.MP4",
+			"name" : "Dubstep Bird",
+			"duration" : "4",
+			"preview" : "previewImages/Dubstep.jpg"
+		},
+		{
+			"id" : 4,
+			"source" : "videos/Ironman.MP4",
+			"name" : "Iron man",
+			"duration" : "5",
+			"preview" : "previewImages/Ironman.jpg"
+		},
+		{
+			"id" : 5,
+			"source" : "videos/Normal.MP4",
+			"name" : "Normal day",
+			"duration" : "16",
+			"preview" : "previewImages/Normal.jpg"
+		},
+		{
+			"id" : 6,
+			"source" : "videos/Call.MP4",
+			"name" : "Call",
+			"duration" : "5",
+			"preview" : "previewImages/Call.jpg"
+		}
+	]
+}

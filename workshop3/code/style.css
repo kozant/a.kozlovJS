@@ -1,0 +1,78 @@
+.header{
+	display:flex;
+	flex-direction: column;
+	justify-content: center; 
+	align-items: center;
+}
+h1{
+	margin:0;
+}
+.listOfVideos{
+	display:flex;
+	flex-direction: column;
+	justify-content: center; 
+	align-items: center;
+}
+.listOfVideosNone{
+	display: none;
+}
+.video{
+	display:flex;
+	flex-direction: column;
+	justify-content: center; 
+	align-items: center;
+	border:1px solid grey;
+	width:35vw;
+	height: 25vw;
+	margin:1vw;
+	transition: 2s;
+}
+
+.poster{
+	width:25vw;
+}
+.description{
+	display:flex;
+	flex-direction: column;
+	justify-content: center; 
+	align-items: center;
+	margin:5px;
+}
+.name{
+	font-size: 30px;
+	margin:0px;
+}
+.Page_with_mainVideo{
+	display:flex;
+	flex-direction: row;
+	justify-content: center; 
+	align-items: center;
+}
+.Page_with_mainVideoNone{
+	display: none;
+}
+.mainVideo{
+	margin:2vw 10vw;
+}
+.asideColumn{
+	margin:20px;
+	display:flex;
+	flex-direction: column;
+	justify-content: center; 
+	align-items: center;
+}
+.video_ofAsideColumn{
+	display:flex;
+	flex-direction: column;
+	justify-content: center; 
+	align-items: center;
+}
+.name_videoAside{
+	display:flex;
+	justify-content: center; 
+	align-items: center;
+	font-size: 20px;
+}
+.poster_videoAside{
+	width:20vw;
+}
